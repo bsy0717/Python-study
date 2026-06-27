@@ -1,0 +1,20 @@
+#一个字符串
+s="Hello,World!Welcome to the new world!"
+#长度计算
+print(len(s))
+#索引取值
+print(s[13])
+#切片操作
+print(s[0:10])
+#布尔值
+B1=True
+B2=False
+print(B1)
+#空值
+N=None
+#查看数据类型
+print(type(s))
+print(type(B1))
+print(type(N))
+print(type(1.04))
+print(type(6))
